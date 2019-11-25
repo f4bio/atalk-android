@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.jbosh:jbosh:0.9.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.jbosh/jbosh/0.9.1/b032ccc5fcc6d1ac208deb32150e6bf20d31c4ac/jbosh-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.jbosh/jbosh/0.9.1/f1ee289c95edd083e0d0aa428a4938a2018bd655/jbosh-0.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.jbosh/jbosh/0.9.1/e94830f15c35f8a8e3a7f9d491b74646b50b329e/jbosh-0.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

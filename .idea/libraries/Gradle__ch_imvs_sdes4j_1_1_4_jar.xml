@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.imvs:sdes4j:1.1.4@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.imvs/sdes4j/1.1.4/ff682248aadd86586e6e7910ab904f60188d4379/sdes4j-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.imvs/sdes4j/1.1.4/214e8cbe8a2fcc03a614b7335db36504b73effbb/sdes4j-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.imvs/sdes4j/1.1.4/48a423e585d0462919e5e9538335f5d443d523ed/sdes4j-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

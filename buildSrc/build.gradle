@@ -24,7 +24,7 @@ repositories {
 apply plugin: 'org.anarres.jarjar'
 
 // def smackVersion = '4.4.0-alpha2'
-def smackVersion = '4.4.0-alpha3-SNAPSHOT'
+def smackVersion = '4.4.0-alpha2-SNAPSHOT'
 
 def jarJarDeps = task("jarJarDeps") {
     doFirst {

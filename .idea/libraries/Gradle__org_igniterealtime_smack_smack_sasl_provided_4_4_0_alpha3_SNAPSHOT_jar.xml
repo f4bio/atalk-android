@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-sasl-provided:4.4.0-alpha3-SNAPSHOT@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.4.0-alpha3-SNAPSHOT/2012351b23a456c9a1bae7205661b66a1281f85d/smack-sasl-provided-4.4.0-alpha3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.4.0-alpha3-SNAPSHOT/76e2102acdee43a071cd292c6ebef6e19f3390c/smack-sasl-provided-4.4.0-alpha3-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.4.0-alpha3-SNAPSHOT/38a66178e80079983f4ef106a3aa97372aa59c63/smack-sasl-provided-4.4.0-alpha3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

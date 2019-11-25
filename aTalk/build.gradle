@@ -14,9 +14,9 @@ apply plugin: 'com.android.application'
 apply plugin: 'org.anarres.jarjar'
 
 repositories {
-    maven {
-        url 'third_party/m2'
-    }
+//    maven {
+//        url 'third_party/m2'
+//    }
     google()
     jcenter()
     mavenCentral()
@@ -229,6 +229,14 @@ dependencies {
     implementation "org.igniterealtime.smack:smack-android-extensions:$smackVersion"
     // implementation "org.igniterealtime.smack:smack-bosh:$smackVersion"
     implementation "org.igniterealtime.jbosh:jbosh:0.9.1"
+
+    compile "org.igniterealtime.smack:smack-java7:4.3.0"
+    // Optional for XMPPTCPConnection
+    compile "org.igniterealtime.smack:smack-tcp:4.3.0"
+    // Optional for XMPP-IM (RFC 6121) support (Roster, Threaded Chats, …)
+    compile "org.igniterealtime.smack:smack-im:4.3.0"
+    // Optional for XMPP extensions support
+    compile "org.igniterealtime.smack:smack-extensions:4.3.0"
 
     implementation "org.igniterealtime.smack:smack-compression-jzlib:$smackVersion"
     implementation "org.igniterealtime.smack:smack-core:$smackVersion"

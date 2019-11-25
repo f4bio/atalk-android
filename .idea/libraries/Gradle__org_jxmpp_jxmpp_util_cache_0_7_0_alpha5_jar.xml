@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jxmpp:jxmpp-util-cache:0.7.0-alpha5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.7.0-alpha5/b4468fd3080c715598b08ab0e17ebda249185c3c/jxmpp-util-cache-0.7.0-alpha5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.7.0-alpha5/126ea4ba9b2eada1d0c03be9724f94d3ada7cc3c/jxmpp-util-cache-0.7.0-alpha5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.7.0-alpha5/3635504d9036e1b47f9efff75489de9092e5a385/jxmpp-util-cache-0.7.0-alpha5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

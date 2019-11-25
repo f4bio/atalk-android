@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.pgpainless:pgpainless-core:0.0.1-alpha7@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pgpainless/pgpainless-core/0.0.1-alpha7/574b6621f493691040067324771c4a8fd04d9aa6/pgpainless-core-0.0.1-alpha7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pgpainless/pgpainless-core/0.0.1-alpha7/1c9e604e25cdbd63e1bbd4b30366f57881d1c9ee/pgpainless-core-0.0.1-alpha7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pgpainless/pgpainless-core/0.0.1-alpha7/f000c17d7621c57b5413e57d922584513ed29d48/pgpainless-core-0.0.1-alpha7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

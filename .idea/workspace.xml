@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17cf46bb-3fb4-4c5a-a30f-5377c45f1f59" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/aTalk/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="FKDzWiPq" />
+  </component>
+  <component name="ProjectId" id="1U7C2YySgEsj4QIpK6vIc23BrwY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35198823" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17cf46bb-3fb4-4c5a-a30f-5377c45f1f59" name="Default Changelist" comment="" />
+      <created>1574698039799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574698039799</updated>
+      <workItem from="1574698045745" duration="516000" />
+      <workItem from="1574698788719" duration="369000" />
+      <workItem from="1574699227405" duration="2432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1318" y="385" key="#Project_Structure" timestamp="1574706619736">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1318" y="385" key="#Project_Structure/0.0.3440.1440@0.0.3440.1440" timestamp="1574706619736" />
+    <state x="1208" y="301" key="SettingsEditor" timestamp="1574705856074">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1208" y="301" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1574705856074" />
+    <state x="1400" y="482" width="639" height="476" key="find.popup" timestamp="1574706901707">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1400" y="482" width="639" height="476" key="find.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1574706901707" />
+    <state x="1149" y="331" key="new project wizard" timestamp="1574699049578">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1149" y="331" key="new project wizard/0.0.3440.1440@0.0.3440.1440" timestamp="1574699049578" />
+  </component>
+</project>
