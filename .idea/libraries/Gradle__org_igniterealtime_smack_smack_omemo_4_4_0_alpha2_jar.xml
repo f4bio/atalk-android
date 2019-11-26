@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-omemo:4.4.0-alpha2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-omemo/4.4.0-alpha2/2da32ffcb6bbd9074b04b1a1cfe1f930a2e0afd0/smack-omemo-4.4.0-alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-omemo/4.4.0-alpha2/6f0f73534c3bc568086303179406dfe03790f93f/smack-omemo-4.4.0-alpha2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-omemo/4.4.0-alpha2/2fab7b64d3fd9a051599774e5443859700b2d678/smack-omemo-4.4.0-alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

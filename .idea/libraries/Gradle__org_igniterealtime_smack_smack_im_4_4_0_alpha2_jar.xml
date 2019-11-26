@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-im:4.4.0-alpha2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.4.0-alpha2/4e30119a6ec7e9bdb69ba68e73a5dd79b41311e0/smack-im-4.4.0-alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.4.0-alpha2/5e76ef91c2e9082d2519c83fdb5e8512a28d8467/smack-im-4.4.0-alpha2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.4.0-alpha2/40a78c4b4fd7404ce00fd99f3bf33161b2f1321b/smack-im-4.4.0-alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

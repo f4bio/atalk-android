@@ -2,9 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17cf46bb-3fb4-4c5a-a30f-5377c45f1f59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_f4bio_workspace_atalk_android_aTalk_libs_fmj_1_0_SNAPSHOT_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_f4bio_workspace_atalk_android_aTalk_libs_ice4j_2_0_0_SNAPSHOT_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars____Users_f4bio_workspace_atalk_android_aTalk_libs_zrtp4j_light_4_1_0_jar_unspecified_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v13_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_10_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_7_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_splitwise_tokenautocomplete_2_0_8_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcpg_jdk15on_1_62_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_62_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_android_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_android_extensions_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_compression_jzlib_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_im_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_legacy_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_omemo_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_omemo_signal_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_openpgp_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_resolver_minidns_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_sasl_provided_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_xmlparser_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_igniterealtime_smack_smack_xmlparser_xpp3_4_4_0_alpha3_SNAPSHOT_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_pgpainless_pgpainless_core_0_0_1_alpha7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aTalk/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/aTalk/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/bundles/fmj-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/bundles/zrtp4j-light-4.1.0-jitsi-1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/fmj/fmj-1.0-20170519.163031-24-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/fmj/fmj-1.0-20170519.163031-24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/fmj/fmj-1.0-20170519.163031-24.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/fmj/fmj-1.0-SNAPSHOT-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/ice4j/ice4j-2.0.0-20181024.160538-12-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/ice4j/ice4j-2.0.0-20181024.160538-12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/FaultTolerantNegotiator.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/IBBTransferNegotiator.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/InBandBytestreamManager.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/InBandBytestreamSession.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/Provider.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/SmackReactor.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/XMPPBOSHConnection.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/smack-core-4.4.0-alpha3-20190916.073603-4-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/smack-experimental-4.4.0-alpha3-20190916.073603-4-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/src_reference/smack/smack-extensions-4.4.0-alpha3-20190916.073603-4-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/lib/versionupdate.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aTalk/third_party/m2/org/igniterealtime/smack/smack-jarjared/4.4.0-alpha2-SNAPSHOT/smack-jarjared-4.4.0-alpha2-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/aTalk/third_party/m2/org/igniterealtime/smack/smack-jarjared/4.4.0-alpha2-SNAPSHOT/smack-jarjared-4.4.0-alpha2-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +96,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +124,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -54,7 +140,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35198823" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="ServiceViewManager">
@@ -81,26 +167,51 @@
       <updated>1574698039799</updated>
       <workItem from="1574698045745" duration="516000" />
       <workItem from="1574698788719" duration="369000" />
-      <workItem from="1574699227405" duration="2432000" />
+      <workItem from="1574699227405" duration="2520000" />
+      <workItem from="1574747816246" duration="1252000" />
     </task>
+    <task id="LOCAL-00001" summary="wip">
+      <created>1574707070443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574707070443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wip" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1318" y="385" key="#Project_Structure" timestamp="1574706619736">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="1318" y="385" key="#Project_Structure/0.0.3440.1440@0.0.3440.1440" timestamp="1574706619736" />
-    <state x="1208" y="301" key="SettingsEditor" timestamp="1574705856074">
+    <state x="1353" y="393" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1574750504694">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1208" y="301" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1574705856074" />
-    <state x="1400" y="482" width="639" height="476" key="find.popup" timestamp="1574706901707">
+    <state x="1353" y="393" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.3440.1440@0.0.3440.1440" timestamp="1574750504694" />
+    <state x="1132" y="323" key="CommitChangelistDialog2" timestamp="1574707069640">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
-    <state x="1400" y="482" width="639" height="476" key="find.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1574706901707" />
+    <state x="1132" y="323" key="CommitChangelistDialog2/0.0.3440.1440@0.0.3440.1440" timestamp="1574707069640" />
+    <state x="1208" y="301" key="SettingsEditor" timestamp="1574750495315">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1208" y="301" key="SettingsEditor/0.0.3440.1440@0.0.3440.1440" timestamp="1574750495315" />
+    <state x="1320" y="460" key="Vcs.Push.Dialog.v2" timestamp="1574707083021">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1320" y="460" key="Vcs.Push.Dialog.v2/0.0.3440.1440@0.0.3440.1440" timestamp="1574707083021" />
+    <state x="1400" y="482" width="639" height="476" key="find.popup" timestamp="1574750753457">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1400" y="482" width="639" height="476" key="find.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1574750753457" />
     <state x="1149" y="331" key="new project wizard" timestamp="1574699049578">
       <screen x="0" y="0" width="3440" height="1440" />
     </state>

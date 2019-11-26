@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-compression-jzlib:4.4.0-alpha2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-compression-jzlib/4.4.0-alpha2/3ff61cc2a64cfaf933af7df31e53c62b018ab60e/smack-compression-jzlib-4.4.0-alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-compression-jzlib/4.4.0-alpha2/cf569cfe1555653541dcef2ecdb35127bd7fa3b/smack-compression-jzlib-4.4.0-alpha2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-compression-jzlib/4.4.0-alpha2/af99606ea1e47b2d823559d586d71e944844bc87/smack-compression-jzlib-4.4.0-alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

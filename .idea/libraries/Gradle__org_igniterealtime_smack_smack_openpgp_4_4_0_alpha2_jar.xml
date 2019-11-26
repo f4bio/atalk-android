@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.igniterealtime.smack:smack-openpgp:4.4.0-alpha2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-openpgp/4.4.0-alpha2/e708a226f1d877c6fe0e7c906e198106b842b273/smack-openpgp-4.4.0-alpha2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-openpgp/4.4.0-alpha2/a129ae032483672666b2c87c828505feb9f6d045/smack-openpgp-4.4.0-alpha2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-openpgp/4.4.0-alpha2/9f3bd0808de7f6370662d5bc172ec65323672ba0/smack-openpgp-4.4.0-alpha2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

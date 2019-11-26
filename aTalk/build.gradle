@@ -168,10 +168,10 @@ ext {
     // Remove source reference in .idea/libraries if source mismatched with class jar
 
     // for official maven release
-    // smackVersion = '4.4.0-alpha2'
+     smackVersion = '4.4.0-alpha2'
 
     // For smack own repository SNAPSHOT release
-    smackVersion = '4.4.0-alpha3-SNAPSHOT' // 20190916.073603
+//    smackVersion = '4.4.0-alpha3-SNAPSHOT' // 20190916.073603
 }
 
 dependencies {
@@ -230,13 +230,13 @@ dependencies {
     // implementation "org.igniterealtime.smack:smack-bosh:$smackVersion"
     implementation "org.igniterealtime.jbosh:jbosh:0.9.1"
 
-    compile "org.igniterealtime.smack:smack-java7:4.3.0"
+    implementation "org.igniterealtime.smack:smack-java7:4.3.0"
     // Optional for XMPPTCPConnection
-    compile "org.igniterealtime.smack:smack-tcp:4.3.0"
+    implementation "org.igniterealtime.smack:smack-tcp:4.3.0"
     // Optional for XMPP-IM (RFC 6121) support (Roster, Threaded Chats, …)
-    compile "org.igniterealtime.smack:smack-im:4.3.0"
+    implementation "org.igniterealtime.smack:smack-im:4.3.0"
     // Optional for XMPP extensions support
-    compile "org.igniterealtime.smack:smack-extensions:4.3.0"
+    implementation "org.igniterealtime.smack:smack-extensions:4.3.0"
 
     implementation "org.igniterealtime.smack:smack-compression-jzlib:$smackVersion"
     implementation "org.igniterealtime.smack:smack-core:$smackVersion"
